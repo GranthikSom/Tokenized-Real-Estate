@@ -1,0 +1,17 @@
+
+
+[package]
+name = "send_message"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule =  "0x8070130f17feedec1d5621be2d1d07f84791d3c1e2ab8dbe534b5d12b07a173d"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "devnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
