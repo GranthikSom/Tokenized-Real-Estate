@@ -22,3 +22,6 @@ The goal is to democratize real estate investments by allowing fractional owners
 ✅ Invest in Properties – Investors can fund listed properties using Aptos tokens.
 ✅ Secure & Transparent – Transactions are recorded on the blockchain.
 ✅ Low Entry Barrier – Enables fractional ownership of real estate assets.
+##contact address- 0x7fa5cad701799f8889c97ea15c03c6f3c562845e2bd75bf99a528285d51810da
+![image](https://github.com/user-attachments/assets/ed8fbbb1-e154-4911-ac92-f1de22111709)
+
